@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open CloudServer.html",
+            "file": "c:\\apache-tomcat-7.0.59\\webapps\\Secure Data Transfer and Deletion Code\\CloudServer.html"
+        }
+    ]
+}
