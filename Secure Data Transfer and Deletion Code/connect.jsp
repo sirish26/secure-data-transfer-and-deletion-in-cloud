@@ -11,6 +11,6 @@
 	}
 	catch(Exception e)
 	{
-		System.out.println(e);
+		out.println(e.getMessage());
 	}
 %>
